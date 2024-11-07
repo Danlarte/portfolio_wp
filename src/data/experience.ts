@@ -17,7 +17,7 @@ export const EXPERIENCE: ExperienceProp[] = [
       "reCAPTCHA",
       "Affinity Photo"
     ],
-    logo: "/logos/pluralArquitectos.png",
+    logo: "/portfolio_wp/logos/pluralArquitectos.png",
   },
   {
     dates: "November 2021",
@@ -38,7 +38,7 @@ export const EXPERIENCE: ExperienceProp[] = [
       "SASS CSS",
       "Affinity Designer",
     ],
-    logo: "/logos/plutonia.png",
+    logo: "/portfolio_wp/logos/plutonia.png",
   },
   {
     dates: "Octubre 2022",
@@ -58,7 +58,7 @@ export const EXPERIENCE: ExperienceProp[] = [
 
 
     ],
-    logo: "/logos/olacomu.png",
+    logo: "/portfolio_wp/logos/olacomu.png",
   },
   {
     dates: " Junio 2020",
@@ -78,6 +78,6 @@ export const EXPERIENCE: ExperienceProp[] = [
       "Sweetalert2",
     
     ],
-    logo: "/logos/tastil.png",
+    logo: "/portfolio_wp/logos/tastil.png",
   },
 ];
