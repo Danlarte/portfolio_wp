@@ -82,12 +82,12 @@ export const EXPERIENCE: ExperienceProp[] = [
   },
 
   {
-  "dates": "Febrero 2023",
-  "title": "Desarrollo Web Headless",
-  "company": "Kanpai Almacén Natural",
-  "companyUrl": "https://kanpai.com.ar/",
-  "description": "Desarrollo de un sitio web con arquitectura headless, utilizando WordPress como backend para la gestión de contenidos y Astro.js para construir una landing page rápida, moderna y optimizada para SEO. La integración se realizó a través de la REST API, permitiendo un control total del frontend desde código estático. Se personalizó el CMS con campos avanzados (ACF) para facilitar la edición de productos y promociones. Se optimizó el rendimiento con Netlify como plataforma de despliegue y Cloudflare para seguridad y velocidad de carga.",
-  "technologies": [
+  dates: "Febrero 2023",
+  title: "Desarrollo Web Headless",
+  company: "Kanpai Almacén Natural",
+  companyUrl: "https://kanpai.com.ar/",
+  description: "Desarrollo de un sitio web con arquitectura headless, utilizando WordPress como backend para la gestión de contenidos y Astro.js para construir una landing page rápida, moderna y optimizada para SEO. La integración se realizó a través de la REST API, permitiendo un control total del frontend desde código estático. Se personalizó el CMS con campos avanzados (ACF) para facilitar la edición de productos y promociones. Se optimizó el rendimiento con Netlify como plataforma de despliegue y Cloudflare para seguridad y velocidad de carga.",
+  technologies: [
     "Astro.js",
     "Headless WordPress",
     "REST API",
