@@ -97,7 +97,7 @@ export const EXPERIENCE: ExperienceProp[] = [
     "Netlify",
     "Astra Theme childe"
   ],
-  logo:"/portfolio_wp/logos/kanpai.png",
+  logo:"/portfolio_wp/logos/kanpailogo.png",
   
 
 },
