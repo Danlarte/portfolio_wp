@@ -23,7 +23,7 @@ export const EXPERIENCE: ExperienceProp[] = [
     dates: "November 2021",
     title: "Tienda Online",
     company: "Plutonia",
-    companyUrl: "https://www.plutonia.online",
+    companyUrl: "https://www.tiendaplutonia.art",
     description:
       "Desarrollo web, Creación de Marca: Diseño de identidad, configuración de Woocommerce, creacion de Custom Hooks para formulario de envios, implementacion de pasarela de pagos segura, desarrollo responsive, optimizacion SEO y velocidad de carga, diseño responsive, automatizacion de pedidos, gestion de correos de confirmacion de compras.",
     technologies: [
@@ -80,4 +80,25 @@ export const EXPERIENCE: ExperienceProp[] = [
     ],
     logo: "/portfolio_wp/logos/tastil.png",
   },
+
+  {
+  "dates": "Febrero 2023",
+  "title": "Desarrollo Web Headless",
+  "company": "Kanpai — Sushi & Wok",
+  "companyUrl": "https://kanpai.com.ar/",
+  "description": "Desarrollo de un sitio web con arquitectura headless, utilizando WordPress como backend para la gestión de contenidos y Astro.js para construir una landing page rápida, moderna y optimizada para SEO. La integración se realizó a través de la REST API, permitiendo un control total del frontend desde código estático. Se personalizó el CMS con campos avanzados (ACF) para facilitar la edición de productos y promociones. Se optimizó el rendimiento con Netlify como plataforma de despliegue y Cloudflare para seguridad y velocidad de carga.",
+  "technologies": [
+    "Astro.js",
+    "Headless WordPress",
+    "REST API",
+    "Advanced Custom Fields",
+    "Cloudflare DNS",
+    "Figma",
+    "Netlify",
+    "Astra Theme childe"
+  ],
+  logo:"/portfolio_wp/public/logos/kanpaiLogowebKanpai.png"
+
+}
+
 ];
