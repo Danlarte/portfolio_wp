@@ -41,24 +41,28 @@ export const EXPERIENCE: ExperienceProp[] = [
     logo: "/portfolio_wp/logos/plutonia.png",
   },
   {
-    dates: "Octubre 2022",
-    title: "Diseño y Desarrollo Web",
-    company: "Ola Comunicación y Género",
-    companyUrl: "https://olacomunicacionygenero.com/",
-    description:
-      "Creación de una interfaz de usuario intuitiva y visualmente atractiva, alineada con los valores y la identidad. Implementación de WordPress para permitir una gestión de contenido sencilla y eficiente.Programación de características específicas para mejorar la funcionalidad del sitio,utilizando PHP para ajustarse a las necesidades de la organización. ",
-    technologies: ["Figma",
-      "Affinity Designer",
-      "Neve Child Theme",
-      "Cloudflare DNS",
-      "Code Snipets",
-      "TranslatePress",
-      "WP Show Posts CPT",
-      "Formidable Form",
+  dates: "Agosto 2025", 
+  title: "Optimización de Tracking y Performance Web", 
+  company: "Pueblo Nativo",
+  companyUrl: "https://www.pueblonativo.com.ar/", 
+  description:
+    "Proyecto integral que comenzó con la nueva instalación de WordPress y se enfocó en asegurar el tracking correcto de conversiones y la optimización técnica del sitio. Las tareas clave incluyeron:Configuración de medición, con la actualización del Meta Pixel, integración de eventos clave en Google Tag Manager, y enlazado de GA4 para la validación de datos. Optimización de performance, mediante la optimización de imágenes, limpieza de plugins innecesarios, minimización de scripts, y corrección de errores de carga. El trabajo se realizó sobre la nueva instalación y culminó con la entrega de informes comparativos (PageSpeed, GTmetrix) que validaron las mejoras.",
+    
+  
+  technologies: [
+    "Meta Pixel",
+    "Google Tag Manager",
+    "Google Analytics 4",
+    "GTmetrix",
+    "Google PageSpeed Insights",
+    "Illustrator",
+    "WebP",
+    "WhatsApp API",
+    "Fluent Forms",
+    "Comet Cache",
+  ],
 
-
-    ],
-    logo: "/portfolio_wp/logos/olacomu.png",
+    logo: "/portfolio_wp/logos/Logo-Pueblo-Nativo-png.png",
   },
   {
     dates: " Junio 2020",
