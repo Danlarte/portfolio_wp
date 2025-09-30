@@ -20,7 +20,7 @@ export const EXPERIENCE: ExperienceProp[] = [
     logo: "/portfolio_wp/logos/pluralArquitectos.png",
   },
   {
-    dates: "November 2021",
+    dates: "Noviembre 2024",
     title: "Tienda Online",
     company: "Plutonia",
     companyUrl: "https://www.tiendaplutonia.art",
@@ -86,7 +86,7 @@ export const EXPERIENCE: ExperienceProp[] = [
   },
 
   {
-  dates: "Febrero 2023",
+  dates: "Febrero 2024",
   title: "Desarrollo Web Headless",
   company: "Kanpai Almacén Natural",
   companyUrl: "https://kanpai.com.ar/",
